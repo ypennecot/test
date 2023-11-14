@@ -1,7 +1,8 @@
 #first line here
-int tata
-float toto 
-tata = 3
+
+tata = 10.
+
+toto = 0
 
 def anotherFunction():
   return "also coucou"
