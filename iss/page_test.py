@@ -6,3 +6,5 @@ tata = 3
 def anotherFunction():
   return "also coucou"
   
+def testFunction():
+    return "coucou"
