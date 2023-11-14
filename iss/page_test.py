@@ -8,3 +8,6 @@ def anotherFunction():
   
 def testFunction():
     return "coucou"
+
+def encoreUnePetiteFuction():
+   return "encore"
