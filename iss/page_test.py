@@ -12,3 +12,7 @@ def testFunction():
 
 def encoreUnePetiteFuction():
    return "encore"
+
+
+def premiereFonctionDeFunc1():
+   return "func1"
